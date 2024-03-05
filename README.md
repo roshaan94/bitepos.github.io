@@ -1,4 +1,1 @@
-BytePOS
-##Coming
-###Soon
-
+theme: jekyll-theme-fyrestrap-tw-coming-soon
